@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <SDL2/SDL.h>
 
-
 // Definition de la structure Matrice caree  avec un tableau de tableau de caracteres et une taille
+
 
 typedef struct
 {
